@@ -5,7 +5,7 @@ const {colors, symbols} =
 colors.pass = 32;
 colors.fail = 33;
 colors["error stack"] = 36;
-colors["error message"] = 33;
+colors["error message"] = 34;
 
 // Example config from Mocha repo       
 module.exports = {
